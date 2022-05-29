@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+h4 {
+    color: blue;
+}
+
+nav {
+    background-color: white;
+    display: flex;
+    position: sticky;
+}
+
+.container {
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
